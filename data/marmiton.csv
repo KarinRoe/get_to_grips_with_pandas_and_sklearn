@@ -1,0 +1,690 @@
+,name,cost,level,quantity,total_time,nb_of_ingredients,length_ingredients,beurre,oignon,oeuf,type
+0,clafoutis aux abricots,1,1,4,60,7,132,60,No,4,Dessert
+1,Gigot d'agneau à l'ail et au romarin,1,2,6,55,6,144,0,No,0,Plat principal
+2,Ailerons de poulet confits au miel,2,1,4,65,10,227,0,No,0,Plat principal
+3,Tuiles aux amandes,3,2,4,25,5,117,35,No,2,Dessert
+4,Financiers au bon goût d'amande,1,1,15,30,6,165,100,No,4,Dessert
+5,Tiramisu à l'ananas,1,1,8,15,6,143,0,No,2,Dessert
+6,Gâteau à l'ananas facile,1,2,8,60,10,223,150,No,4,Dessert
+7,Poulet coco ananas,1,1,4,25,7,153,0,Yes,0,Plat principal
+8,Tartinade d'artichauts,1,1,4,20,8,226,0,No,0,Amuse-gueule
+9,Artichauts cathares,1,1,4,25,8,145,0,Yes,2,Entrée
+10,Artichauts à la barigoule,3,2,4,70,10,220,0,Yes,0,Plat principal
+11,Penne aux artichauts,2,1,2,30,11,312,1,Yes,0,Plat principal
+12,Crème d'asperges en verrines,1,2,8,30,7,129,0,No,1,Amuse-gueule
+13,Aubergine à la parmesane,2,1,2,75,3,79,0,No,0,Plat principal
+14,Lasagnes d'aubergines,3,2,4,100,12,268,25,Yes,0,Plat principal
+15,Verrine avocat-truite fumée,1,1,4,15,7,178,0,No,1,Entrée
+16,Avocats Fourrés,1,1,4,20,5,89,0,No,2,Entrée
+17,Velouté d'avocat,2,1,4,25,10,234,0,No,0,Entrée
+18,Cassolette d'avocat,1,1,4,15,5,125,0,No,0,Plat principal
+19,Poisson Badiane,2,1,2,30,12,324,0,Yes,0,Plat principal
+20,Canard à la badiane,1,2,4,35,11,306,20,Yes,1,Plat principal
+21,Crèmes brûlées à la badiane,2,1,6,45,4,85,0,No,3,Dessert
+22,Crème à la badiane et à la cannelle,2,1,5,75,7,157,0,No,2,Dessert
+23,Crème Anglaise à la badiane,3,1,4,30,5,114,0,No,4,Sauce
+24,Cake aux bananes,2,1,4,75,9,201,100,No,3,Dessert
+25,Muffins à la banane,1,1,6,30,8,198,70,No,1,Dessert
+26,Rillettes de thon au basilic,1,1,4,15,9,213,0,No,0,Entrée
+27,comment conserver le basilic,1,1,1,10,1,6,0,No,0,Conseil
+28,Velouté froid de betteraves,1,1,4,35,9,172,0,No,0,Entrée
+29,Conserve de betterave,2,1,4,110,3,40,0,No,0,Accompagnement
+30,Confiture de betterave,1,1,4,55,4,80,0,No,0,Confiserie
+31,Roulades de betteraves,3,1,4,15,5,114,0,No,0,Plat principal
+32,tarte aux blettes,2,1,1,65,12,267,0,Yes,1,Entrée
+33,Sauce aux blettes,2,1,4,40,6,127,0,No,0,Sauce
+34,Blettes à la crème,1,1,4,100,6,103,0,No,0,Plat principal
+35,Quiche aux blettes,2,1,4,75,6,137,0,No,3,Entrée
+36,Penne aux blettes,1,1,2,30,9,158,0,No,0,Plat principal
+37,Cordon bleu,1,1,4,18,7,195,20,No,1,Plat principal
+38,Bleu d'azur,1,3,1,3,3,68,0,No,0,Boisson
+39,Poulet au bleu,2,1,2,25,9,207,10,No,0,Plat principal
+40,Parmentier bleu,1,1,4,50,10,191,100,Yes,1,Plat principal
+41,Boeuf Bourguignon rapide,1,2,6,70,11,245,50,Yes,800,Plat principal
+42,Boeuf bourguignon,2,2,4,360,8,159,100,Yes,0,Plat principal
+43,Velouté de brocolis,1,1,6,45,7,143,0,Yes,0,Entrée
+44,Gratin de brocolis rapide,1,1,4,26,8,172,0,No,0,Accompagnement
+45,Parmentier aux brocolis,1,1,4,30,8,144,0,Yes,0,Plat principal
+46,Lasagnes aux brocolis,2,1,3,80,11,248,0,No,0,Plat principal
+47,Velouté de butternut à la cannelle,2,1,4,35,5,128,0,Yes,0,Entrée
+48,Accras de Butternut,3,1,20,97,12,246,0,Yes,1,Entrée
+49,Butternut à la cannelle,1,1,3,80,4,77,100,No,0,Dessert
+50,Crème de butternut,1,2,4,35,10,179,0,No,0,Entrée
+51,Friture de carpe,2,1,4,80,6,157,0,No,0,Plat principal
+52,Carpe au four,1,1,4,30,5,78,0,Yes,0,Plat principal
+53,Carpe à l'alsacienne,2,2,4,60,12,253,0,Yes,0,Plat principal
+54,carpe frite,1,1,4,16,6,84,0,No,0,Plat principal
+55,Carpe au beurre rouge,2,2,5,50,8,173,125,No,0,Plat principal
+56,Carottes vichy,1,1,4,40,4,84,50,No,0,Plat principal
+57,Flan de carottes,1,1,6,70,8,164,0,No,2,Accompagnement
+58,Carottes à la carbonara,1,1,2,25,7,150,0,Yes,2,Plat principal
+59,Purée de carottes,1,1,4,25,8,201,1,No,0,Accompagnement
+60,Liqueur de cassis,2,1,3,30,8,189,0,No,0,Boisson
+61,Sirop de cassis,3,1,1,20,2,42,0,No,0,Boisson
+62,Crème au cassis,2,1,3,25,9,224,0,No,1,Dessert
+63,Macarons au cassis,2,1,45,60,6,168,0,No,150,Dessert
+64,Muffins au cassis,2,1,12,55,8,215,110,No,2,Dessert
+65,Crème de céleri,1,1,4,75,9,195,0,Yes,2,Entrée
+66,Escalopes de céleri,2,1,4,40,5,77,0,No,0,Plat principal
+67,Tatin de Céleri,1,1,4,55,5,87,0,No,0,Accompagnement
+68,Celeri rémoulade,1,1,4,36,9,239,0,No,0,Entrée
+69,Quiche aux cèpes,2,2,4,80,12,245,1,No,2,Entrée
+70,Lasagnes aux cèpes,2,2,4,50,9,191,20,No,0,Plat principal
+71,Risotto aux cèpes très facile,1,2,2,90,10,228,25,Yes,0,Plat principal
+72,Tagliatelles aux cèpes,2,2,4,40,9,230,30,No,0,Plat principal
+73,Velouté de cèpes,2,1,4,45,8,203,30,No,2,Entrée
+74,Cerfeuil tubéreux,1,1,4,40,11,233,20,Yes,0,Accompagnement
+75,Crème de cerfeuil,1,1,6,60,6,129,0,Yes,0,Entrée
+76,Velouté de laitue au cerfeuil,2,1,6,45,8,161,45,No,0,Entrée
+77,Côte de boeuf parfumée au cerfeuil,1,1,4,30,8,128,0,No,2,Plat principal
+78,Soupe aux navets et cerfeuil,1,1,4,45,6,108,0,No,0,Entrée
+79,Clafoutis grand-mère aux cerises,1,1,8,40,9,202,40,No,4,Dessert
+80,Cake à la feta et tomates cerise,1,1,4,70,10,253,0,No,4,Entrée
+81,Crumble aux cerises,1,1,4,45,5,119,100,No,0,Dessert
+82,Chaussons aux cerises,2,1,4,45,6,155,0,No,1,Dessert
+83,Cake salé jambon ciboulette,1,1,6,50,11,272,1,No,3,Entrée
+84,Sauce ciboulette,1,1,4,25,7,152,40,No,0,Sauce
+85,Saumon à la ciboulette,1,2,4,30,6,120,200,No,0,Plat principal
+86,Blinis faciles à la ciboulette,2,1,2,10,5,142,0,No,0,Amuse-gueule
+87,Madeleines au citron,2,1,18,27,6,122,90,No,3,Dessert
+88,Velouté de champignons,1,1,3,50,11,282,3,Yes,0,Entrée
+89,Soupe de champignons,2,1,5,40,10,192,0,Yes,0,Entrée
+90,Rôti de veau en cocotte aux champignons,1,2,6,50,10,268,40,Yes,0,Plat principal
+91,Velouté de potiron aux châtaignes,1,1,6,40,5,93,0,Yes,0,Entrée
+92,Poulet aux châtaignes,2,2,3,120,8,169,0,No,0,Plat principal
+93,crème de châtaignes,2,1,4,45,4,80,50,No,0,Dessert
+94,Chèvre en feuilleté,1,1,4,35,4,88,0,No,1,Entrée
+95,Quiche aux courgettes et au chèvre,1,1,4,50,9,180,0,No,2,Plat principal
+96,Lasagnes aux courgettes et au chèvre,1,1,2,35,9,195,0,No,0,Plat principal
+97,"Tourte Poireaux, Jambon et Chèvre",1,1,4,40,6,150,0,No,2,Entrée
+98,Chili con carne express,1,1,3,35,9,197,0,Yes,0,Plat principal
+99,Chili con carne facile,1,1,4,35,12,307,50,Yes,30,Plat principal
+100,Chili con carne simple,2,1,4,90,14,320,0,Yes,0,Plat principal
+101,Chili à ma manière,2,1,4,80,12,257,0,Yes,600,Plat principal
+102,Risotto au poulet et chorizo,1,2,6,45,15,322,0,Yes,0,Plat principal
+103,Madeleines salées courgette chorizo,2,1,40,20,7,181,0,No,6,Amuse-gueule
+104,Gratin de pâtes au chorizo,2,1,4,55,9,190,0,Yes,0,Plat principal
+105,Sauté de veau au chorizo,1,1,6,80,9,217,0,Yes,0,Plat principal
+106,Chou campagnard,1,1,4,35,3,66,0,No,0,Plat principal
+107,Gratin de chou-fleur léger,1,1,4,50,10,197,25,No,0,Accompagnement
+108,Velouté de chou- fleur,1,1,6,35,9,182,50,No,0,Entrée
+109,Chou-fleur gratiné au jambon,1,1,4,60,4,103,0,No,0,Plat principal
+113,Choucroute,1,2,5,200,19,469,0,Yes,0,Plat principal
+114,Maki de choucroute,3,1,4,55,9,196,40,Yes,0,Plat principal
+115,Choucroute ( préparation ),2,1,1,10,4,70,0,No,0,Plat principal
+116,Choucroute savernoise,3,2,8,600,16,360,0,Yes,0,Plat principal
+117,Soupe à la Choucroute,1,1,6,80,5,135,0,No,0,Plat principal
+118,Gratin de clémentines,3,1,6,30,5,120,0,No,4,Dessert
+119,Compotée de clémentines,2,1,2,30,6,110,1,No,0,Accompagnement
+120,Cailles et clémentine,2,2,2,45,9,230,0,No,0,Plat principal
+121,Clémentines à la Russe,3,2,4,90,6,162,0,No,0,Dessert
+122,Charlotte aux clémentines,3,1,8,720,9,246,0,No,2,Dessert
+123,Flan coco,1,1,6,60,5,121,0,No,3,Dessert
+124,Curry de lotte au lait de coco,2,2,8,40,9,193,0,No,0,Plat principal
+125,Tarte aux pommes et à la noix de coco,1,1,6,55,7,149,50,No,1,Dessert
+126,Tarte aux coings,1,1,6,75,6,136,0,No,2,Dessert
+127,Cake aux coings,1,1,10,60,8,187,100,No,3,Dessert
+128,Liqueur de coing,1,1,10,10,5,97,0,No,0,Boisson
+129,Chutney de coings,2,2,2,90,5,123,0,No,0,Sauce
+130,Granité de concombre,1,1,4,190,8,193,0,No,0,Entrée
+131,Concombres à la menthe,1,1,4,15,7,152,0,No,0,Entrée
+132,Poulet au concombre,2,1,3,50,9,207,0,No,0,Plat principal
+133,Sandwichs de concombre,2,1,4,10,5,139,0,No,0,Entrée
+134,Pesto de coriandre,2,1,10,10,6,139,0,No,0,Sauce
+135,Avocats à la coriandre,1,2,6,15,9,189,0,No,0,Entrée
+136,Aubergines à la coriandre,2,2,4,50,10,229,0,Yes,0,Accompagnement
+137,Côtelettes à la coréenne,1,1,4,45,7,174,0,Yes,0,Plat principal
+138,Côtelettes panées,2,1,6,35,11,252,70,No,4,Plat principal
+139,Côtelettes d'agneau panées,2,2,2,18,8,149,0,No,1,Plat principal
+140,Côtelettes d'agneau en croûte d'herbes,1,2,4,35,10,272,0,No,2,Plat principal
+141,Côtelettes d'agneau au citron et aux herbes,1,1,4,20,7,134,0,No,0,Plat principal
+142,Gratin de courge facile,1,1,4,60,7,149,0,No,2,Accompagnement
+143,Soupe de courge,1,1,4,45,9,171,0,Yes,0,Entrée
+144,Gratin de courge butternut,1,1,4,25,9,199,0,No,0,Plat principal
+145,Gratin de courge,1,1,6,65,7,172,0,No,0,Accompagnement
+146,Courgettes farcies,3,2,4,70,8,167,0,Yes,0,Plat principal
+147,Dauphinois de courgettes,2,2,4,80,10,228,20,No,0,Accompagnement
+148,Gratin de courgettes rapide,1,1,4,30,8,165,1,Yes,2,Accompagnement
+149,Potage au cresson,2,1,4,40,5,131,50,No,0,Plat principal
+150,Velouté de cresson,2,1,4,50,5,107,30,No,0,Entrée
+151,Poulet au cresson,2,1,6,80,6,109,0,Yes,0,Plat principal
+152,Velouté de cresson au chèvre,1,1,4,25,5,126,1,Yes,0,Entrée
+153,Velouté de cresson aux pommes de terre,1,1,4,60,10,203,40,Yes,0,Entrée
+154,Blanquette de crevettes,2,2,4,55,12,258,20,Yes,0,Plat principal
+155,Curry de crevettes (Sud de l'Inde),2,2,4,35,7,181,20,Yes,0,Plat principal
+156,Crevettes au curry express,1,2,2,15,4,139,0,No,0,Plat principal
+157,Amuse-gueules litchi crevette,1,1,4,20,3,80,0,No,0,Amuse-gueule
+158,Dinde au curcuma,2,1,4,55,9,237,0,Yes,0,Plat principal
+159,Crevettes au curcuma,2,1,6,40,14,339,10,Yes,0,Plat principal
+160,Poulpe au curcuma,2,2,4,75,8,224,0,Yes,0,Plat principal
+161,Pâte sablée salée au curcuma,2,1,10,65,6,164,100,No,0,Accompagnement
+162,Moules au curry,1,2,4,25,7,170,50,No,0,Plat principal
+163,Lentilles corail au curry,1,1,4,25,10,168,0,Yes,0,Plat principal
+164,côtes de porc au curry et au miel,1,1,4,20,5,140,0,No,0,Plat principal
+166,Lait de dattes,1,1,6,10,3,58,0,No,0,Dessert
+167,Crème aux dattes,2,1,6,30,5,116,0,No,0,Dessert
+168,Cake aux dattes,2,1,8,65,8,207,0,No,3,Dessert
+169,Dattes au bacon,1,1,4,20,2,47,0,No,0,Amuse-gueule
+170,Makroud aux dattes,3,1,6,150,10,244,100,No,0,Dessert
+171,Saumon à l'échalote,1,1,4,25,8,213,1,No,0,Plat principal
+172,Riz à l'échalote,1,1,2,20,4,105,0,No,0,Accompagnement
+173,Sauce à l'échalote simple,1,1,1,10,6,164,0,No,0,Sauce
+174,Tartiflette aux endives,1,2,4,25,7,148,0,Yes,0,Plat principal
+175,Endive jambon,1,1,4,45,6,135,1,No,0,Plat principal
+176,Tarte tatin aux endives et chavignol,2,2,4,65,8,206,50,No,0,Entrée
+177,Escalopes de poulet au vinaigre balsamique,2,2,4,30,6,170,0,Yes,0,Plat principal
+178,Escalopes de poulet à l'indienne,1,1,4,45,10,243,0,No,0,Plat principal
+179,Escalopes à la moutarde,1,1,4,45,10,208,0,No,0,Plat principal
+180,Escalope à la normande,2,1,4,25,6,159,0,No,0,Plat principal
+181,Escalopes farcies,2,1,4,60,7,146,0,Yes,0,Plat principal
+182,Lasagnes au saumon et aux épinards,1,2,4,40,7,140,0,No,0,Plat principal
+183,Tagliatelles aux épinards,3,2,4,40,8,185,0,Yes,0,Plat principal
+184,Epinards en beignets,2,2,2,25,8,160,0,No,1,Entrée
+185,Risotto au fenouil,1,1,4,55,9,171,80,Yes,0,Plat principal
+186,Fenouils à la méditerranéenne,1,1,4,45,4,64,0,No,0,Accompagnement
+187,Fenouil au curry,2,1,4,30,8,191,0,No,0,Plat principal
+188,Soupe au fenouil,1,1,4,20,5,84,25,No,0,Entrée
+189,Velouté de fenouil,1,1,2,30,8,186,0,Yes,0,Entrée
+190,Fèves nouvelles,2,2,4,60,6,112,0,No,0,Accompagnement
+191,Crème de fèves,1,1,4,35,5,118,25,Yes,0,Accompagnement
+192,Tajine  aux fèves,1,2,2,150,12,234,0,Yes,0,Plat principal
+193,Fèves carbonara,2,1,4,30,9,209,0,No,1,Plat principal
+194,Velouté de fèves,1,1,4,45,9,185,0,Yes,0,Entrée
+195,Alcool de figues,1,2,2,45,4,72,0,No,0,Boisson
+196,Tarte aux framboises,1,2,4,60,8,203,250,No,0,Dessert
+197,Coulis de framboises,3,2,4,20,3,66,0,No,0,Sauce
+198,Tiramisu aux framboises,1,2,6,25,7,152,0,No,3,Dessert
+199,Gougères au fromage,2,1,6,45,7,136,80,No,4,Amuse-gueule
+200,Omelette aerienne Calzone,2,1,2,10,7,150,0,No,4,Plat principal
+201,Poulet aux parfums de garrigue,1,1,6,75,10,215,0,No,0,Plat principal
+202,Chèvre à la grenade,2,1,2,5,4,76,0,No,0,Entrée
+203,"Jus de grenade, pomme et citron",1,1,1,5,3,48,0,No,0,Boisson
+204,"Tarte aux raisins, figues et grenade",2,1,6,65,11,274,120,No,3,Dessert
+205,Verrine fraises-grenades,1,2,4,20,7,171,0,No,0,Dessert
+206,Poulet d'Israël aux grenades,1,1,4,90,11,236,0,Yes,0,Plat principal
+207,Sirop de groseilles,1,1,1,80,2,46,0,No,0,Boisson
+208,Coupe de groseilles,1,1,4,30,4,88,0,No,3,Dessert
+209,Coulis de groseille,1,1,1,10,2,38,0,No,0,Sauce
+210,Crumble aux groseilles,1,1,6,50,4,91,125,No,0,Dessert
+211,Gelée de goyave facile,2,1,4,40,3,68,0,No,0,Confiserie
+212,Flan à la goyave,2,1,8,80,6,159,0,No,6,Dessert
+213,Galette des rois à la goyave,1,1,8,80,5,103,0,No,1,Dessert
+214,Planteur Mangue-Goyave,2,2,2,130,9,257,0,No,0,Boisson
+215,Côtelettes d'agneau et gelée de goyave,1,2,4,20,5,133,0,No,0,Plat principal
+216,Roulé de jambon aux haricots verts,1,1,1,30,3,80,0,No,0,Plat principal
+217,Conserves de Haricots,2,1,1,110,1,6,0,No,0,Conseil
+218,Haricots a la mexicaine,3,2,4,45,11,293,0,Yes,0,Amuse-gueule
+219,Haricots Sauteurs,1,1,2,25,7,200,0,No,0,Plat principal
+220,Confiture de kakis,2,2,6,67,4,90,0,No,0,Confiserie
+221,Mousse de kaki,1,1,3,15,4,120,0,No,0,Dessert
+222,Crumble au kaki,2,2,6,50,5,93,100,No,0,Dessert
+223,Gateau au yaourt kaki-banane,1,1,6,40,9,209,0,No,1,Dessert
+224,Verrines bicolores kiwi-saumon,1,2,8,15,5,124,0,No,0,Entrée
+225,Salade de kiwis et tomates de Lili,1,1,2,5,6,81,0,No,0,Entrée
+226,Sirop de kiwis,2,1,1,30,3,58,0,No,0,Boisson
+227,Beignet de kiwis,2,1,4,20,6,155,0,No,2,Dessert
+228,Lapin aux pruneaux,2,2,4,90,14,350,1,Yes,0,Plat principal
+229,Lapin à la moutarde maison,1,1,1,60,14,303,0,No,0,Plat principal
+230,Blanquette de lapin au riesling et aux girolles,1,1,4,80,14,315,70,Yes,2,Plat principal
+231,tourte au lapin,1,2,7,90,13,262,0,Yes,1,Plat principal
+232,Velouté de laitue,2,1,4,45,10,197,0,Yes,0,Entrée
+233,Soupe de laitue,2,1,4,45,4,80,0,Yes,0,Entrée
+234,Soupe de laitue,2,2,4,65,9,173,10,Yes,1,Entrée
+235,Potage à la laitue rapide,1,1,4,30,4,71,0,Yes,0,Entrée
+236,Saucisses aux lentilles,2,1,4,55,6,136,0,No,0,Plat principal
+238,Lentilles et saucisses de Morteau à ma façon,1,1,5,130,7,148,0,Yes,0,Plat principal
+239,Ragoût de lentilles vertes du Puy,1,1,8,85,12,278,0,Yes,0,Plat principal
+240,Glace aux litchis,1,1,6,20,3,98,0,No,0,Dessert
+241,Poulet aux litchi,2,1,4,25,11,228,0,No,0,Plat principal
+242,Poulet aux litchis,1,1,4,90,8,148,0,No,0,Plat principal
+243,Tiramisu aux Litchis,2,1,5,20,7,171,0,No,3,Dessert
+244,Tarte aux litchis,1,1,6,45,9,191,0,No,1,Dessert
+245,Lotte à l'américaine,2,2,4,40,9,231,75,No,0,Plat principal
+247,Lotte exotique,2,2,4,60,9,175,0,Yes,0,Plat principal
+248,Terrine de lotte,3,1,8,60,8,156,0,No,6,Entrée
+249,Lotte au safran,1,2,2,20,8,202,0,No,0,Plat principal
+250,Velouté de mâche,1,1,4,35,6,122,30,No,0,Entrée
+251,Coulis de mâche,2,1,4,30,7,183,0,No,0,Sauce
+252,Salade de raviolis et mâche,1,1,4,23,11,218,0,No,0,Plat principal
+253,Salade de mâche forestière,1,1,2,20,14,322,0,No,0,Plat principal
+254,Salade de mâche avocat et crevettes,1,1,4,10,13,261,0,No,0,Entrée
+255,conserve de maquereaux,1,1,3,65,11,209,0,Yes,0,Entrée
+256,Brandade de maquereaux,2,1,4,55,8,210,0,No,0,Plat principal
+257,Rillettes de maquereaux simples,1,1,6,55,6,149,0,Yes,0,Amuse-gueule
+258,Rillettes de maquereau faciles,1,1,7,10,5,126,0,Yes,0,Entrée
+259,Tiramisu aux mandarines,1,1,6,15,6,158,0,No,2,Dessert
+260,Gâteau à la mandarine,1,1,6,75,7,143,80,No,2,Dessert
+261,Vin de mandarines,1,1,1,180,4,82,0,No,0,Boisson
+262,Pintadeaux aux mandarines,1,1,4,75,8,188,70,No,0,Plat principal
+263,Moelleux à la mandarine,1,1,6,45,7,154,100,No,3,Dessert
+264,Crème de mangue facile et légère,1,1,2,10,2,45,0,No,0,Dessert
+265,Glace à la mangue,2,2,1,50,5,127,0,No,0,Dessert
+266,Crème à la mangue,1,1,4,45,8,193,0,No,3,Dessert
+267,Tatin d'endives aux marrons,2,1,8,70,9,215,40,No,0,Entrée
+268,Fondant à la crème de marrons et au chocolat,2,2,8,35,4,96,100,No,3,Dessert
+269,Velouté de marrons (rapide et simple),1,1,4,45,4,127,0,No,0,Entrée
+270,"Salade melon, feta, jambon",1,1,4,15,10,259,0,No,0,Entrée
+271,Carpaccio de melon,2,2,4,55,8,207,0,No,4,Dessert
+272,Melon grillé,1,1,8,9,2,35,0,No,0,Dessert
+273,Madeleines au miel,1,1,24,20,8,191,125,No,3,Dessert
+274,Magrets de canard au miel,2,3,2,20,4,117,0,No,0,Plat principal
+277,Clafoutis aux mirabelles ou aux quetsches,2,2,4,50,7,152,45,No,3,Dessert
+278,Sorbet aux mirabelles,2,1,6,30,6,141,0,No,0,Dessert
+279,Tourte aux mirabelles,2,1,4,60,6,123,75,No,1,Dessert
+280,Sirop de mirabelles,3,1,2,1490,3,66,0,No,0,Boisson
+281,Muffins aux mirabelles,3,2,4,35,8,192,100,No,1,Dessert
+282,Crêpes aux morilles,2,3,12,130,12,299,50,No,2,Entrée
+283,Lasagnes de morilles,2,2,4,30,8,178,40,No,0,Entrée
+284,gnocchis aux morilles,1,3,4,40,8,189,10,No,0,Entrée
+285,Duxelles de morilles,3,3,6,40,10,233,50,No,0,Entrée
+286,Moules au roquefort,2,1,4,35,9,194,0,No,0,Plat principal
+288,Moules Salsa,2,1,4,25,8,185,0,No,0,Plat principal
+289,Sauté de porc à la crème de moutarde,2,1,4,40,10,277,30,Yes,0,Plat principal
+290,"Tarte thon, tomate et moutarde",1,1,4,55,9,221,0,No,2,Entrée
+292,Filets de poulet à la moutarde et à la crème,1,1,4,25,6,171,20,No,0,Plat principal
+293,Filet mignon de porc à la moutarde,1,2,4,65,8,175,0,No,0,Plat principal
+294,Accras de morue facile,2,2,6,25,12,236,0,Yes,2,Amuse-gueule
+295,Brandade de Morue,2,1,6,80,6,140,0,No,0,Plat principal
+296,Morue à la crème facile,2,1,6,35,4,101,0,Yes,0,Plat principal
+297,Morue à la portugaise,2,2,6,105,9,205,0,Yes,6,Plat principal
+298,Accras de morue faciles,2,2,7,24,11,241,0,Yes,4,Amuse-gueule
+299,Cocotte de mulet aux olives,2,2,4,90,11,223,0,Yes,0,Plat principal
+300,Papillotes de mulet aux champignons et au fenouil,2,2,6,35,11,277,0,No,0,Plat principal
+301,Mulet au potiron et au riz,2,2,4,45,9,163,0,Yes,0,Plat principal
+302,curd aux mûres,2,1,6,75,6,120,100,No,3,Confiserie
+303,Liqueur à la mûre,2,2,12,30,4,88,0,No,0,Boisson
+304,Sirop de mûre,3,2,3,90,2,34,0,No,0,Boisson
+305,Sirops de mûre,3,1,1,70,3,62,0,No,0,Boisson
+306,Sirop de mûre rapide,3,2,4,45,2,40,0,No,0,Boisson
+307,Financiers aux myrtilles,2,1,12,13,6,136,70,No,3,Dessert
+308,Beignets des myrtilles,1,1,4,12,5,112,0,No,2,Dessert
+309,Liqueur de myrtilles,2,1,1,45,5,116,0,No,0,Boisson
+310,Navets caramélisés,2,2,4,75,6,109,30,No,0,Plat principal
+311,Navets caramélisés (très facile),1,1,4,25,3,80,0,No,0,Accompagnement
+312,Navettes provençales,1,1,8,45,6,113,75,No,3,Confiserie
+313,Navettes marseillaises,2,1,8,70,7,198,70,No,3,Dessert
+314,Mousseline de navets,1,1,4,30,6,120,0,Yes,0,Accompagnement
+315,Nectarines au four,2,1,4,30,9,250,5,No,3,Dessert
+316,Tartelettes aux nectarines,3,1,6,80,14,356,20,No,2,Dessert
+317,Cake aux nectarines facile,1,1,8,120,9,207,100,No,3,Dessert
+318,sorbet aux nectarines,3,1,4,20,4,75,0,No,0,Dessert
+319,Biscuits sablés aux noisettes,1,1,6,30,6,125,125,No,1,Dessert
+320,Crème de noisettes,1,1,6,5,7,172,125,No,2,Dessert
+321,Biscuits aux noisettes faciles,1,1,4,20,6,141,230,No,2,Confiserie
+323,Rochers à la noix de coco,1,1,6,20,4,100,0,No,1,Confiserie
+324,Flan onctueux à la noix de coco,1,1,8,55,6,174,0,No,4,Dessert
+325,Madeleines au coeur de nutella,1,1,30,23,8,204,125,No,3,Dessert
+326,Gâteau au yaourt et Nutella,1,1,6,35,8,201,0,No,4,Dessert
+327,Muffins nutella et pépites de chocolat,2,1,6,35,9,226,125,No,1,Dessert
+328,Muffins coeur de Nutella,2,1,12,30,11,264,100,No,2,Dessert
+329,Cake salé aux oignons et aux lardons,1,1,6,45,10,236,0,Yes,3,Amuse-gueule
+330,Poulet curry et oignons facile,1,1,4,20,8,148,0,Yes,0,Plat principal
+331,Gâteau à l'orange,2,1,6,70,7,158,175,No,3,Dessert
+332,Gâteau au jus d'orange,2,1,8,65,7,187,0,No,4,Dessert
+333,Sorbet a l'orange,1,1,6,5,3,72,0,No,0,Dessert
+334,Punch à l'orange,1,1,8,15,6,141,0,No,0,Boisson
+335,Poisson à l'oseille,2,1,6,25,7,151,40,No,0,Plat principal
+336,Soupe à l'oseille,1,1,4,15,4,101,0,No,1,Entrée
+337,Saumon à l'oseille,2,2,4,35,9,215,40,No,0,Plat principal
+338,Sauce à l'oseille très simple,1,1,4,10,2,57,0,No,0,Sauce
+339,Pain,3,2,4,85,5,130,0,No,0,Entrée
+340,Pain,3,1,6,215,4,94,0,No,0,Accompagnement
+341,Pain perdu,3,2,4,30,4,95,0,No,3,Dessert
+342,Pain d'épices facile,1,1,8,50,17,328,100,No,1,Dessert
+343,Panisses,3,2,4,25,4,123,0,No,0,Dessert
+344,Poêlée de panais,1,1,2,25,6,164,1,No,0,Accompagnement
+345,Soda au pamplemousse,2,1,1,5,4,87,0,No,0,Boisson
+346,pamplemousse vanillé,1,1,2,20,3,55,0,No,0,Dessert
+347,Pamplemousse aux crevettes tout simple,1,1,2,20,3,64,0,No,0,Entrée
+348,Pamplemousses grillés,1,3,2,15,5,167,2,No,0,Entrée
+349,Flan de Papaye,2,1,4,50,6,158,1,No,2,Dessert
+350,Smoothie à la papaye,1,1,2,5,7,135,0,No,0,Boisson
+351,Confiture de papaye,2,1,5,40,4,86,0,No,0,Confiserie
+352,Tarte à la papaye,2,1,6,60,11,286,0,No,2,Dessert
+353,Délice aux framboises et aux fruits de la passion,3,2,8,100,11,261,0,No,2,Dessert
+354,Mousse de la passion,2,1,10,20,9,233,0,No,8,Dessert
+355,Gambas passionnément,2,2,4,50,10,215,50,No,0,Plat principal
+356,Tiramisu passion,2,1,12,20,4,118,0,No,0,Dessert
+357,Brioche pastèque,3,1,6,60,10,225,15,No,1,Dessert
+358,Pizza Pastèque,2,1,4,5,5,146,0,No,0,Dessert
+359,Glace pastèque,2,1,6,15,4,91,0,No,0,Dessert
+360,Pâte sablée,2,1,1,30,6,133,100,No,1,Dessert
+361,Quiche sans pâte,1,1,4,40,8,184,0,No,3,Plat principal
+362,Crumble aux pêches,1,1,6,45,4,86,200,No,0,Dessert
+363,Pêche Melba,2,1,4,35,8,190,0,No,0,Dessert
+364,Houmous au persil,2,1,4,10,8,183,0,No,0,Entrée
+365,Spaghettis au persil,1,1,5,15,5,93,0,No,0,Plat principal
+366,Velouté de persil,1,1,4,25,5,129,10,No,0,Entrée
+367,Dorades au persil,2,2,4,50,9,166,0,No,0,Plat principal
+368,Coca de pignons,2,1,6,50,9,191,150,No,4,Dessert
+369,Tarte aux pignons,2,1,6,50,10,233,100,No,3,Dessert
+370,Croissants aux pignons,1,2,6,15,4,105,0,No,2,Confiserie
+371,Tarte aux pignons rapide,1,2,8,55,9,239,100,No,2,Dessert
+372,Tarte amandine aux poires,1,1,6,55,8,174,100,No,2,Dessert
+373,Crumble poires - chocolat,1,1,4,60,6,143,100,No,0,Dessert
+374,Tarte frangipane aux poires et au chocolat,2,1,6,40,7,161,100,No,2,Dessert
+375,Tarte chocolat - poires facile,1,1,6,45,7,187,0,No,3,Dessert
+376,risotto aux poireaux,1,1,4,30,7,142,0,No,0,Plat principal
+377,Fondue aux poireaux,1,1,4,60,7,200,30,No,0,Accompagnement
+378,Quiche au poireau et saumon fumé,2,2,6,45,10,223,0,No,2,Entrée
+379,Tarte facile poireaux tomates,1,1,4,25,8,158,0,No,3,Plat principal
+380,Risotto aux petits pois et au parmesan,2,2,4,80,9,183,100,Yes,0,Plat principal
+381,Velouté aux cosses de petits pois,2,1,4,60,9,255,0,Yes,0,Entrée
+382,tourte aux petits pois lolo,2,1,6,35,6,163,0,No,2,Entrée
+383,Sauce au poivre,2,2,6,30,5,143,6,No,0,Sauce
+384,Sauce au poivre (facile),1,1,4,10,5,144,0,No,0,Sauce
+385,Velouté aux poivrons et au boursin,1,1,4,50,5,102,0,Yes,0,Entrée
+386,Filets de poulet à la crème de poivron facile,1,1,4,45,6,115,0,No,0,Plat principal
+387,chaussons aux poivrons faciles,2,1,4,50,5,118,0,Yes,1,Entrée
+388,Ratatouille sans poivrons,1,1,6,40,5,125,0,No,0,Accompagnement
+389,Salade fraîcheur au pomélo et grenade,2,1,4,10,4,103,0,No,0,Entrée
+390,Salade d'agrumes à la gelée d'earl grey (13ème rencontre Marmiton),3,1,4,50,8,189,0,No,0,Dessert
+391,Tomates cerise pour l'apéritif,2,1,4,30,4,83,0,No,0,Entrée
+392,Punch planteur fruité à la vanille,2,2,4,30,10,227,0,No,0,Boisson
+393,Pâtes de fruits aux pomelos,2,1,36,65,4,88,0,No,0,Confiserie
+394,Pommée,1,1,6,75,4,98,0,No,0,Dessert
+395,Tarte aux pommes,2,1,6,55,4,88,30,No,0,Dessert
+396,Colombo de poulet,3,2,4,80,17,439,0,Yes,0,Plat principal
+397,Poulet basquaise,2,2,6,80,10,212,0,Yes,0,Plat principal
+398,Poulet au chorizo,2,2,4,90,11,274,0,Yes,0,Plat principal
+399,Jambalaya poulet,2,2,6,65,16,388,0,Yes,0,Plat principal
+400,Porc à la cévenole,1,1,8,135,9,218,0,Yes,0,Plat principal
+403,Gratin de potimarron,1,2,4,90,7,160,30,No,0,Accompagnement
+404,Gateau au potimarron,2,1,8,75,7,138,100,No,4,Dessert
+405,Tarte au potimarron toute simple,1,1,8,55,8,130,0,No,4,Entrée
+406,Galette de potimarron,1,1,4,25,6,102,0,No,4,Entrée
+407,Velouté de Potimarron,1,1,6,105,10,228,10,Yes,0,Accompagnement
+408,Velouté de potiron,1,1,4,75,8,126,0,Yes,0,Entrée
+409,Risotto au potiron,1,1,4,60,8,169,40,Yes,0,Plat principal
+410,Velouté de Potiron et Carottes,1,1,4,60,13,288,0,Yes,0,Entrée
+412,Sirop de prunes,3,2,1,120,2,42,0,No,0,Boisson
+413,Smoothie aux prunes,1,1,3,10,4,84,0,No,0,Boisson
+414,Marmelade de prunes,2,1,8,50,3,63,0,No,0,Confiserie
+415,Far breton aux pruneaux,2,1,6,45,6,126,0,No,4,Dessert
+416,Rôti de porc aux pruneaux,2,1,4,90,10,219,0,No,0,Plat principal
+417,Tajine d'agneau aux pruneaux,2,2,6,80,12,318,0,Yes,0,Plat principal
+418,Beurre de radis,1,1,4,5,3,51,100,No,0,Amuse-gueule
+419,Veau aux Radis,2,2,4,80,5,110,0,Yes,0,Plat principal
+420,Rafraichissant de radis,1,1,2,10,8,218,0,No,0,Entrée
+421,Verrine de radis,2,1,4,15,10,209,0,No,0,Entrée
+422,Radis à l'huile,1,1,4,5,5,99,0,No,0,Entrée
+423,raisins au rhum,1,1,4,5,3,48,0,No,0,Confiserie
+424,Gratin de raisins,3,1,4,27,5,144,0,No,2,Dessert
+425,Gelée de raisin facile,1,1,1,35,2,44,0,No,0,Confiserie
+426,Palets aux raisins,1,1,4,25,6,123,60,No,1,Dessert
+427,Baba au rhum express,1,1,1,45,9,215,50,No,3,Dessert
+429,Mousse au rhum,1,1,4,30,5,137,0,No,4,Dessert
+430,Muffins au rhum,1,1,12,40,9,221,115,No,2,Dessert
+431,Babas au rhum,3,2,12,35,10,243,25,No,3,Dessert
+432,Riz au lait cuit au four,1,1,8,125,4,79,0,No,0,Dessert
+433,Filet mignon rôti au cidre,2,1,4,100,8,177,60,Yes,0,Plat principal
+434,Rôti de porc de Dijon,2,1,6,90,7,127,0,No,0,Plat principal
+435,Rôti de porc Orloff,1,1,6,70,4,111,0,No,0,Plat principal
+436,Rôti de boeuf en croûte,2,2,4,60,14,371,30,No,1,Plat principal
+437,Rapide de rhubarbe,1,1,4,25,3,77,0,No,0,Dessert
+438,Cake à la rhubarbe,1,1,6,90,8,192,100,No,3,Dessert
+439,Clafoutis à la rhubarbe,3,2,6,50,12,309,10,No,3,Dessert
+440,Salade d'été,1,1,6,30,9,191,0,Yes,4,Accompagnement
+441,Salade de l'été,2,1,8,25,7,139,0,No,0,Entrée
+442,Salade de l'été,1,2,4,15,5,103,0,No,0,Entrée
+443,Sauce d'été,1,1,6,10,4,118,0,No,0,Sauce
+445,Vrai faux saucisson au chocolat,1,1,8,15,7,164,150,No,1,Dessert
+446,Saucisson brioché facile et rapide,1,1,6,50,6,136,0,No,3,Plat principal
+447,Saucisson en brioche,2,2,6,45,5,117,0,No,3,Entrée
+448,Saucisson aux spéculoos,2,2,1,15,5,112,100,No,1,Confiserie
+449,Saucisson au chocolat facile,1,1,8,20,5,115,100,No,0,Dessert
+450,Aumonières de saumon,1,1,4,45,7,175,0,No,0,Entrée
+452,Lassi au soja,1,1,4,5,6,194,0,No,0,Dessert
+453,Poulet au soja,1,1,2,45,5,137,0,No,0,Plat principal
+454,Lait de soja,2,1,5,16,3,47,0,No,0,Boisson
+455,Lasagnes au soja,1,1,6,60,13,283,0,Yes,0,Plat principal
+456,Glace aux spéculos et mascarpone,2,1,6,15,5,108,0,No,4,Dessert
+457,Yaourts aux poires et spéculos,2,1,6,490,8,187,10,No,0,Dessert
+458,Cheesecake speculos Nutella,2,1,5,50,7,166,50,No,2,Dessert
+459,Verrine de mascarpone framboises et spéculos,2,2,10,30,6,122,0,No,3,Dessert
+460,Poires caramélisées à la crème de spéculos,2,1,4,35,7,157,0,No,2,Dessert
+461,Cake au thon rapide,1,1,6,55,9,204,0,No,3,Entrée
+462,Quiche au thon,1,1,6,30,9,162,0,No,4,Entrée
+463,Cuisses de poulet caramélisées au thym,2,2,4,75,9,167,0,Yes,0,Plat principal
+464,Gelée de thym,1,1,4,42,2,44,0,No,0,Confiserie
+465,Lapin au thym,2,1,4,60,8,171,40,No,0,Plat principal
+466,Sauce au thym,1,1,4,25,4,110,1,No,0,Sauce
+467,Omelette au thym,1,1,3,7,2,38,0,No,4,Plat principal
+468,Tomates farcies facile,1,1,4,80,9,150,0,Yes,0,Plat principal
+469,Tarte à la tomate rapide,1,1,4,40,5,120,0,No,0,Entrée
+470,Gratin de topinambours facile,2,1,2,40,5,124,0,No,0,Accompagnement
+471,Velouté de topinambour,1,2,4,55,6,131,0,No,0,Entrée
+472,Quiche aux topinambours,2,1,6,55,14,299,50,Yes,0,Entrée
+473,Chips de topinambours,1,1,4,25,2,32,0,No,0,Amuse-gueule
+474,Rösti de topinambours,2,1,4,40,6,112,0,No,1,Accompagnement
+475,Truffes au chocolat,1,2,4,30,6,149,100,No,2,Confiserie
+476,Truffe géante de la mère Anne,1,1,6,22,5,117,125,No,3,Dessert
+477,conservation des truffes,1,3,1,10,1,6,0,No,0,Conseil
+478,Paupiettes de veau,1,1,2,45,8,258,0,No,0,Plat principal
+479,Paupiettes de veau flambées au Cognac,2,2,4,50,9,195,0,No,0,Plat principal
+480,Blanquette de veau de la Baronne,2,2,6,140,11,239,2,Yes,1,Plat principal
+481,Gâteau au yaourt simple,1,1,8,55,6,147,0,No,3,Dessert
+482,AUMONIÈRES D'ASPERGES,2,2,8,30,8,173,0,No,1,Entrée
+483,Salade de chèvre chaud sauce roquefort,1,1,4,40,6,139,0,No,1,Entrée
+484,Aiguillettes de canard et son aumônière,2,1,2,75,11,233,0,No,0,Plat principal
+485,Aumônière chêvre et tomates confites,2,1,4,70,12,210,0,Yes,0,Entrée
+486,Variations de Saint-Jacques au foie gras,3,3,1,60,13,297,0,No,1,Entrée
+491,Cupcakes Red Velvet,2,2,12,80,15,452,120,No,1,Dessert
+492,Cobbler aux mûres (Etats-unis),2,1,10,65,14,414,80,No,1,Dessert
+493,Brown bread ( pain irlandais ),1,1,2,60,9,247,700,No,1,Accompagnement
+494,Délicieux muffins double chocolat - noix,1,1,8,35,11,296,1,No,2,Dessert
+495,Blanquette de poisson,1,1,4,40,9,198,0,Yes,0,Plat principal
+496,Blanquette de veau facile,1,2,4,135,13,278,0,Yes,1,Plat principal
+498,Blanquette de veau (de Marielle),1,2,4,85,15,331,30,Yes,1,Plat principal
+503,Blinis faciles,2,1,6,15,6,146,60,No,4,Entrée
+504,Blinis faciles maison,1,1,4,25,5,109,0,No,1,Entrée
+505,Charlotte aux fraises,1,1,6,15,5,90,0,No,0,Dessert
+506,Trompe bonhomme,1,1,6,65,9,178,20,No,0,Plat principal
+507,Jean bonhommes,2,1,8,45,7,154,125,No,2,Dessert
+508,un bonhomme à croquer,1,1,2,5,5,99,0,No,1,Entrée
+509,Bonhomme de neige en boudin,1,1,6,30,3,70,0,No,0,Amuse-gueule
+510,Brownies facile,1,1,6,45,6,154,125,No,4,Dessert
+511,Brownie,1,1,4,30,7,159,120,No,2,Dessert
+512,Brownie rapide et facile,1,1,6,45,6,128,200,No,4,Dessert
+513,Brownies faciles,2,2,6,50,4,84,80,No,5,Dessert
+514,Tiracitron (équation gourmande de Claire et Hervé Cuisine),3,2,6,90,18,428,75,No,2,Dessert
+515,Cannelés rapides,1,1,10,55,8,182,0,No,2,Dessert
+516,Cannelés bordelais,3,1,16,90,9,218,50,No,2,Dessert
+517,Muffins pomme cannelle gingembre,1,1,12,40,9,204,0,No,2,Dessert
+518,Cheesecake,2,1,6,65,11,258,1,No,3,Dessert
+519,Cheesecake facile,1,1,6,90,9,245,0,No,4,Dessert
+530,Chouquettes simples,1,1,40,40,7,166,80,No,4,Dessert
+531,Chouquettes au roquefort,3,1,8,40,8,187,110,No,4,Amuse-gueule
+532,Chouquettes au chocolat,3,1,30,40,9,215,110,No,4,Confiserie
+533,Cookies faciles,1,1,4,30,7,179,100,No,1,Dessert
+534,Cookies,2,2,4,23,8,207,100,No,1,Dessert
+535,Cookies,2,1,8,22,7,175,150,No,0,Dessert
+536,Cookies tout chocolat,1,1,6,18,12,264,95,No,1,Dessert
+540,Velouté de courgettes,1,1,2,25,3,76,0,No,0,Entrée
+541,Couscous rapide,1,1,6,130,7,167,0,No,0,Plat principal
+542,Couscous sans couscoussier,1,1,8,120,15,258,0,Yes,600,Plat principal
+543,Couscous poulet et merguez facile,1,1,6,65,12,300,0,No,0,Plat principal
+544,Couscous pour les enfant,1,1,4,25,5,113,0,No,0,Plat principal
+545,Risotto crémeux,2,1,6,45,6,120,0,Yes,0,Plat principal
+546,Epinards crémeux,1,1,6,25,7,148,30,No,0,Plat principal
+547,Caramel crémeux,2,1,4,17,3,80,40,No,0,Sauce
+548,Polenta crémeuse,2,1,5,18,5,115,0,No,0,Accompagnement
+549,Crémeux au poires,1,1,8,35,6,140,0,No,2,Dessert
+550,Crêpes,3,2,6,10,8,187,20,No,4,Dessert
+551,Crêpes faciles,1,1,2,10,4,89,0,No,1,Dessert
+560,Crevettes au lait de coco,1,2,4,30,8,170,0,No,0,Plat principal
+561,Croquettes de légumes,1,1,10,40,7,163,0,No,1,Accompagnement
+562,croquettes rapides au saumon,1,1,4,30,10,184,0,No,1,Plat principal
+563,Croquettes de mozzarella,2,1,2,20,6,140,0,No,2,Amuse-gueule
+564,croquettes de riz,2,1,4,20,7,126,0,No,2,Entrée
+565,Croquettes à la cannelle,2,1,6,60,9,238,125,No,2,Confiserie
+566,Crumble facile,1,1,8,40,5,122,125,No,0,Dessert
+567,Crumble aux pommes,1,1,6,45,6,160,75,No,0,Dessert
+568,Crumble d'été aux pêches,1,2,6,40,9,197,120,No,1,Dessert
+569,Crumble de tomates,1,1,4,65,5,149,0,Yes,0,Accompagnement
+570,Financier,1,1,8,50,6,137,125,No,5,Dessert
+572,Financiers aux framboises,2,1,22,35,7,186,100,No,4,Dessert
+573,Crème pâtissière à la vanille,1,1,4,30,5,112,0,No,2,Dessert
+574,Flan pâtissier traditionnel,1,1,8,60,6,121,0,No,4,Dessert
+575,Génoise recette de pâtissier,2,1,4,20,3,67,0,No,4,Dessert
+576,Bananier pâtissier,3,2,8,290,14,322,0,No,2,Dessert
+577,Flan pâtissier simple,1,1,8,70,8,161,0,No,6,Dessert
+578,sirop d'abricot,1,1,4,1445,3,53,0,No,0,Boisson
+579,Faire un fromage de chêvre ou de vache,3,1,2,60,3,45,0,No,0,Accompagnement
+580,Karkadé (Egypte),1,1,1,20,3,77,0,No,0,Boisson
+581,Liqueur bleue à la violette,2,2,2,25,4,84,0,No,0,Boisson
+582,Canard à l'orange et aux tomates,2,2,4,105,8,185,0,No,0,Plat principal
+583,Sauce forestière facile,3,2,2,45,10,243,20,Yes,0,Sauce
+584,Sauce forestière,2,2,4,20,7,188,0,No,0,Sauce
+585,Pizza forestière,2,1,2,1456,9,256,0,Yes,0,Plat principal
+586,Soufflé forestier,2,2,4,65,8,164,60,No,3,Entrée
+587,Lapin forestière,2,2,4,65,14,303,0,Yes,0,Plat principal
+588,Teurgoule Normande,2,1,6,370,4,93,0,No,0,Dessert
+589,La Teurgoule de Nounoune,3,1,10,435,7,186,50,No,0,Dessert
+590,Teurgoule du Pays d'Auge,3,1,4,190,5,103,0,No,0,Dessert
+591,Teurgoule (Pays d'Auge),3,2,6,550,5,122,0,No,0,Dessert
+592,Teurgoule (riz au lait crémeux),1,1,6,65,3,72,0,No,0,Dessert
+593,Gaspacho,1,1,5,15,14,268,0,Yes,0,Entrée
+594,Gaspacho express ( Espagne ),1,1,4,15,12,300,0,No,0,Entrée
+595,Gratin Dauphinois,2,1,6,85,8,155,100,No,0,Plat principal
+596,Gratin dauphinois du chat qui fume,1,1,6,80,7,141,0,No,0,Accompagnement
+597,Gratin dauphinois (recette originale),1,1,5,90,5,104,0,No,0,Accompagnement
+598,Gratin Dauphinois de Claudie,1,1,2,90,7,157,0,No,0,Accompagnement
+599,île flottante très facile,2,1,2,25,6,144,0,No,1,Dessert
+600,Ile flottante,3,2,4,45,7,160,0,No,5,Dessert
+601,Îles flottantes,2,2,4,35,8,183,0,No,4,Dessert
+602,Iles flottantes,2,1,1,30,6,121,0,No,1,Dessert
+608,Lasagnes à la bolognaise très facile,1,1,4,65,8,211,125,Yes,0,Plat principal
+609,Lasagnes à la bolognaise,3,2,8,135,19,431,25,Yes,0,Plat principal
+610,Lasagnes végétariennes (facile),2,1,4,80,11,221,0,Yes,0,Plat principal
+612,madeleines,2,1,12,41,6,129,125,No,3,Dessert
+613,Madeleines rapides,1,1,15,20,7,161,125,No,3,Dessert
+614,Madeleines faciles,1,1,12,35,6,153,60,No,3,Dessert
+615,Madeleines,1,1,6,20,6,137,125,No,2,Dessert
+617,Millefeuille de crêpes,2,1,8,50,9,177,0,No,2,Entrée
+618,Beignets sans friture,2,1,6,25,9,209,20,No,1,Dessert
+619,PAIN MAISON (avec machine à pain),1,1,4,50,7,162,30,No,0,Accompagnement
+620,Huîtres gratinées toutes simples,1,2,4,35,2,33,0,No,0,Entrée
+622,Terrine de sanglier,2,2,12,180,23,430,0,No,2,Entrée
+623,Pintade au foie gras et fricassée forestière,3,3,6,120,15,422,40,No,0,Plat principal
+624,Sauce aux mousserons,2,1,2,15,7,139,0,Yes,0,Sauce
+625,Quenelles aux mousserons,2,1,2,40,5,147,0,No,0,Accompagnement
+626,Tarte aux mousserons,1,1,6,65,9,163,40,Yes,0,Entrée
+627,Cassolettes de moules aux mousserons,1,2,4,45,11,221,100,No,0,Entrée
+628,muffins au son,1,1,4,30,8,174,0,No,1,Accompagnement
+629,Muffins aux pommes,2,1,16,35,10,196,50,No,2,Dessert
+631,Muffins de Sandrine,2,1,15,40,10,232,180,No,3,Dessert
+636,Moussaka,2,1,6,85,20,420,30,Yes,2,Plat principal
+637,Moussaka rapide,2,2,4,60,13,309,0,Yes,0,Plat principal
+638,ma moussaka rapide,1,1,4,25,11,205,0,Yes,0,Plat principal
+639,Moussaka facile,2,2,6,80,14,240,0,Yes,0,Plat principal
+640,La Vraie Moussaka Grecque,3,1,4,175,15,327,20,Yes,500,Plat principal
+641,Nems (frits),3,2,6,95,14,342,0,Yes,3,Entrée
+642,Nems à la Vietnamienne,3,1,45,130,11,307,0,Yes,2,Entrée
+643,Nems aux fromages,2,1,5,75,5,117,0,No,0,Entrée
+644,Nems de légumes,1,1,5,40,6,121,0,No,0,Accompagnement
+645,Oeuf cocotte au bacon,2,1,4,25,7,140,4,No,4,Entrée
+647,Gigot en cocotte,2,2,6,140,10,227,0,Yes,0,Plat principal
+648,Cocotte indienne,2,2,4,50,13,259,0,Yes,0,Plat principal
+652,"Poulet à la moutarde, à l'estragon et aux champignons",1,1,2,40,10,290,0,No,0,Plat principal
+654,Pain d'épices,2,2,6,90,12,354,0,No,2,Dessert
+655,Pancakes,1,1,4,14,7,157,65,No,2,Dessert
+656,Pancakes faciles et rapides,1,1,2,15,6,165,0,No,1,Dessert
+657,Pancakes faciles,1,1,4,14,4,116,0,No,2,Dessert
+658,Pancakes rapides,1,1,2,20,6,140,0,No,2,Dessert
+659,Pannacotta au toblerone,1,1,4,15,3,83,0,No,0,Dessert
+660,Pannacotta fromage frais saumon fumé,1,1,6,30,7,199,0,No,0,Entrée
+661,Panna cotta mozzarella et confiture de tomate,2,1,4,60,9,225,0,No,0,Dessert
+662,Papillote de saumon à la mozzarella,2,2,2,50,10,199,0,No,0,Plat principal
+663,Papillotes de filet mignon au roquefort,1,2,4,60,7,176,0,No,0,Plat principal
+664,Papillote de poulet à la moutarde (recette de régime),1,1,2,35,10,198,0,Yes,0,Plat principal
+665,Amour de saumon en papillote,1,2,4,50,9,188,0,No,0,Plat principal
+667,Paupiettes de veau aux oignons et tomates,2,1,2,80,12,247,0,Yes,0,Plat principal
+668,paupiettes de dinde,2,1,6,80,6,147,0,No,0,Plat principal
+669,Paupiettes aux poivrons,1,1,3,55,9,154,0,Yes,0,Plat principal
+670,Paupiettes à la mérignicaise,1,1,4,75,12,242,0,Yes,0,Plat principal
+675,Bagels aux poivrons,1,1,2,5,5,103,0,No,0,Plat principal
+676,Quiche basquaise,2,1,6,55,11,214,0,Yes,3,Entrée
+677,Tarte basquaise,2,1,4,55,11,212,0,Yes,0,Plat principal
+678,Poulet Basquaise,1,1,6,55,12,173,0,Yes,0,Plat principal
+679,Calamars à la basquaise,1,3,6,80,13,312,0,Yes,0,Plat principal
+680,Thon basquaise,2,2,4,45,12,286,0,Yes,0,Plat principal
+685,Tajine de poulet,2,1,4,90,10,194,0,Yes,0,Plat principal
+686,Potage au potiron,1,1,6,45,8,119,0,Yes,0,Entrée
+687,Potage à la citrouille,1,1,2,45,6,178,1,No,0,Entrée
+689,Potage à la moutarde,1,1,4,30,13,343,0,No,0,Entrée
+690,Potage de légumes,1,1,4,75,11,218,40,Yes,1,Entrée
+691,Breizh profiteroles,3,2,8,90,11,241,120,No,5,Dessert
+692,Profiteroles maison,2,1,20,50,9,184,60,No,4,Dessert
+693,Profiteroles au Thermomix,3,1,10,65,8,180,80,No,3,Dessert
+694,Profiteroles au caramel,3,1,4,55,10,208,60,No,2,Dessert
+695,Profiteroles express,1,1,5,15,6,129,40,No,0,Dessert
+697,Quiche tatin,1,1,6,45,9,198,0,No,3,Entrée
+698,Quiche lorraine,1,1,4,60,9,174,30,No,3,Plat principal
+700,Quiche provençale,2,1,6,75,12,236,0,Yes,3,Entrée
+701,Les Antipasti de Micheline,2,1,15,120,17,415,0,Yes,0,Accompagnement
+702,Gâteau à la confiture façon micheline,2,1,6,50,10,257,125,No,4,Dessert
+703,Oeufs à la neige de Micheline,2,1,4,40,7,174,0,No,4,Dessert
+704,Brioche de Micheline (26ème rencontre),2,1,6,35,7,150,125,No,4,Dessert
+705,Tarte à la rhubarbe façon Micheline,1,1,6,60,7,157,0,No,3,Dessert
+706,Raclette rapide,1,1,1,20,1,26,0,No,0,Plat principal
+707,Raclette,1,1,4,40,9,181,0,No,0,Plat principal
+708,Raclette d'été,2,2,4,25,8,190,0,No,0,Plat principal
+709,Cake 'lendemain de raclette',2,2,6,60,11,271,0,No,2,Entrée
+710,Chaussons de raclette,2,1,6,38,6,160,0,No,1,Amuse-gueule
+711,Ratatouille facile et rapide,1,1,4,30,9,183,0,Yes,0,Accompagnement
+715,Rillettes de faisan,2,1,8,315,10,221,0,Yes,0,Entrée
+716,Risotto tout simple,1,1,4,35,8,186,0,No,50,Plat principal
+717,Risotto d'été,1,2,6,45,8,157,0,No,0,Plat principal
+727,Rôti de porc au miel et aux pommes,1,1,4,75,8,159,0,No,0,Plat principal
+728,Velouté de Butternut et lentilles vertes,2,1,3,45,11,210,1,Yes,0,Entrée
+729,Bricks à la viande et moutarde,1,1,12,20,11,301,1,Yes,2,Amuse-gueule
+730,Samossas de légumes,2,2,8,60,12,334,0,Yes,0,Entrée
+731,Bricks au thon,1,1,2,15,5,116,0,Yes,1,Entrée
+734,Rougail saucisse,1,1,4,40,11,194,0,Yes,0,Plat principal
+736,Pommes de terres sautées,1,1,4,20,5,85,0,No,0,Accompagnement
+737,Sauté de dinde au paprika,1,1,4,30,8,161,0,Yes,0,Plat principal
+738,Sauté de porc au cidre,1,1,6,75,7,157,0,Yes,0,Plat principal
+739,Sauté de veau de Lisbonne,2,2,3,75,11,265,0,Yes,0,Plat principal
+740,"Cuisses de poulet aux carottes, pommes de terre, cumin (sauteuse)",2,1,2,40,7,132,0,Yes,0,Plat principal
+745,Poêlée de concombres,1,1,3,45,9,142,0,No,0,Accompagnement
+746,Salade de pastèque aux épices,1,1,4,15,5,117,0,No,0,Dessert
+747,Steak tartare à la coréenne,1,1,1,10,8,202,0,No,1,Plat principal
+748,Mousse au chocolat en poudre,2,2,4,15,6,182,0,No,6,Dessert
+749,Mousse Toblerone / chocolat blanc,2,1,6,20,7,170,80,No,6,Dessert
+750,Steaks végétariens,1,1,2,30,14,248,0,Yes,1,Plat principal
+751,Le vrai taboulé libanais,2,1,5,25,8,195,0,Yes,0,Entrée
+752,Maamouls (Liban),2,3,50,200,9,222,200,No,0,Dessert
+753,Knafé (Liban),2,1,6,65,7,142,0,No,0,Dessert
+754,Chinklich (Liban),2,1,3,45,5,131,0,No,0,Entrée
+755,Tagliatelles au saumon frais,1,2,5,60,8,179,1,No,0,Plat principal
+756,Tagliatelles carbonara 'spéciales',1,1,2,30,10,217,0,Yes,2,Plat principal
+757,Tagliatelles aux Noix de saint Jacques,1,1,2,20,8,166,0,No,0,Plat principal
+758,Tagliatelles à la crème de poireaux,2,1,4,40,8,157,0,No,0,Plat principal
+759,Tagliatelles de carottes,1,1,4,40,4,64,0,No,0,Accompagnement
+765,Tarte bourdaloue (aux poires),2,1,6,50,8,206,125,No,2,Dessert
+766,Gâteau aux poires bourdaloue,1,1,6,90,11,272,100,No,2,Dessert
+767,Bourdaloue aux poires et chocolat,1,1,8,30,6,145,0,No,0,Dessert
+768,La tarte bourdaloue SuperGourmande !,3,2,6,40,10,262,70,No,1,Dessert
+769,Tarte Bourdaloue aux abricots,2,2,8,65,7,182,0,No,1,Dessert
+770,Les chocolatines,1,1,25,20,4,106,50,No,0,Confiserie
+771,Chocolatine aux noix,2,2,8,90,5,132,125,No,4,Dessert
+772,La chocolatine de marie,3,2,4,75,10,230,20,No,5,Dessert
+773,La chocolatine de Toinette,1,1,6,40,6,150,150,No,3,Dessert
+774,Tartelettes de champignons,2,2,8,45,10,209,50,No,0,Entrée
+775,Tartelettes au citron facile,1,1,6,60,5,95,50,No,3,Dessert
+776,Tartelettes aux cèpes,1,1,6,35,6,120,0,No,0,Entrée
+777,Tartelettes aux pêches,1,1,4,50,7,149,0,No,1,Dessert
+778,Tartelettes amandine,1,1,8,50,6,132,73,No,3,Dessert
+779,Tartiflette,2,2,6,50,7,176,0,Yes,0,Plat principal
+780,tartiflette facile,2,2,4,105,6,137,25,Yes,0,Plat principal
+782,Tiramisu rapide,1,1,6,15,6,129,0,No,6,Dessert
+783,Tiramisu original,3,2,6,40,8,186,0,No,4,Dessert
+784,Tiramisu facile,2,2,5,30,7,193,0,No,2,Dessert
+785,Tiramisù,3,3,4,40,8,224,0,No,3,Dessert
+786,Le trianon ou royal de Nadine,3,1,8,135,12,328,30,No,2,Dessert
+787,Trianon Blanc,3,2,8,75,11,294,0,No,2,Dessert
+788,Trianon au chocolat,2,1,8,40,11,302,40,No,2,Dessert
+789,Trianon aux spéculoos,2,1,6,20,7,187,50,No,0,Dessert
+794,Verrines très faciles,1,1,4,20,4,65,0,No,6,Plat principal
+795,Verrines colorées,1,1,7,15,11,184,0,No,0,Entrée
